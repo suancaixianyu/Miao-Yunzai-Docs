@@ -68,6 +68,7 @@ git clone --depth=1 https://github.com/yoimiya-kokomi/miao-plugin.git ./plugins/
 # 原神插件
 git clone --depth=1 -b genshin https://gitee.com/yoimiya-kokomi/Miao-Yunzai.git ./plugins/genshin/
 
+
 # 系统插件
 git clone --depth=1 -b system https://gitee.com/yoimiya-kokomi/Miao-Yunzai.git ./plugins/system/
 
